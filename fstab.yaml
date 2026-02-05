@@ -1,5 +1,2 @@
-mounts:
-  - repo: gaurav-singh-builds/aem-eds   # your repo owner/repo
-    mountpoint: /
-    type: gdrive
-    id: 1WFOxK5QALzogk4heF-tPJF-vcXfAqfyJ               # ← paste here
+mountpoints:
+  /: https://drive.google.com/drive/folders/1WFOxK5QALzogk4heF-tPJF-vcXfAqfyJ        # ← paste here
